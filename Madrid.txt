@@ -1,0 +1,17 @@
+Madrid
+1902-03-06
+
+Madrid-Espagnol
+
+J256983;Ancelotti;Carlo;1959-06-10;Italie;
+RI8569;thibaut;Courtois;1992-05-11;Belgique;GK;1
+EP74585;Daniel;Carvajal;1992-01-11;Espagnol;RB;2
+OP36985;David;Alaba;1992-06-24;Austria;CB;4
+UL36985;José;Nacho;1990-01-18;Espagnol;CB;6
+YU85964;Vieira da Silva;Marcelo;1988-05-12;Brazil;LB;12
+GB23659;Toni;Kroos;1990-01-04;Germany;CM;8
+JL23659;Loka;Modric;1985-09-09;Croatie;CM;10
+Rt85296;Carlos Henrique;Casimiro;1992-02-23;Brazil;CDM;14
+TY12268;Eden;Hazard;1991-01-07;Belgique;RW;7
+L23698;Benzema;Karim;1987-12-19;France;ST;9
+FG23658;Marco;Asennsio;1996-01-21;Espagnol;LW;11

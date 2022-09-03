@@ -1,0 +1,17 @@
+FCBarcelona
+1899-11-29
+
+Barcelona-Espagnol
+
+H145879;Hernandez;Xavi;1980-01-25;Espagnol;
+U15489;Marc-André;ter Stegen;1992-04-30;Allemagne;GK;1
+K25985;Gerard;Piqué;1987-02-02;Espagnol;CB;3
+K852963;Ronald;Arujo;1999-03-07;Uraguay;CB;4
+P74859;Dani;Alves;1983-05-06;Brazil;RB;8
+U748599;Oscar;Mingueza;1999-05-13;Espagnol;LB;22
+R859632;Sergio;Busquets;1988-07-16;Espagnol;CDM;5
+E745896;Riqui;Puig;1999-08-13;Espagnol;CM;6
+D852741;Riqui;Pidri;2002-11-25;Espagnol;CM;16
+U852963;Frenfie;de Jong;1997-05-12;Netherlands;CM;21
+Q45987;Ansu;Fati;2002-10-31;Guinea-Bissau;ST;10
+X256397;Pierre-Emerick;Aubameyang;1989-06-18;Gabonais;ST;25
